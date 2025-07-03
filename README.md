@@ -1,10 +1,10 @@
 <!-- Profile README for github.com/Justadudeinspace -->
 
 <p align="center">
-  <img src="assets/blux_logo.txt" alt="BLUX Logo" width="350"/>
+  <img src="assets/AI_ART_1751514976008.jpg" alt="~JADIS" width="350"/>
 </p>
 
-<h1 align="center">JADIS — Just a Dude in Space 🚀</h1>
+<h1 align="center">~JADIS — "Just a Dude in Space" 🚀</h1>
 
 <p align="center">
   <b>Android Modder • AI Tinkerer • Digital Outlaw</b><br>
