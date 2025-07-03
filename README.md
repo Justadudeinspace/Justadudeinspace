@@ -17,6 +17,9 @@
   <a href="https://github.com/Justadudeinspace/blux">
     <img src="https://img.shields.io/github/stars/Justadudeinspace/blux?style=social" alt="BLUX Stars"/>
   </a>
+  <a href="mailto:justadudeinspace4244@hotmail.com" target="_blank" rel="noopener noreferrer" title="Email me at justadudeinspace4244@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-justadudeinspace4244%40hotmail.com-0072C6?logo=microsoft-outlook&logoColor=white" alt="Hotmail Email Badge"/>
+</a>
   <a href="https://t.me/Justadudeinspace">
     <img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram" alt="Telegram"/>
   </a>
@@ -82,6 +85,7 @@
 
 ## 📫 Connect
 
+- **Email:** [JADIS@Hotmail](justadudeinspace4244@hotmail.com)
 - **Telegram:** [@Justadudeinspace](https://t.me/Justadudeinspace)
 - **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21)
 - **GitHub:** [Justadudeinspace](https://github.com/Justadudeinspace)
