@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://mega.nz/file/rMxiFBLA#MdQsDq16DuBqz20dXbQtBScM-P3pGRcLMEOMBWheE-U" alt="~JADIS" width="400"/>
+  <img src="/assets/naut.png" alt="~JADIS" width="400"/>
 </p>
 
 ---
