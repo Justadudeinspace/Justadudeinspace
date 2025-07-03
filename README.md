@@ -4,7 +4,9 @@
   <img src="assets/AI_ART_1751514976008.jpg" alt="~JADIS" width="350"/>
 </p>
 
-<h1 align="center">~JADIS — "Just a Dude in Space" 🚀</h1>
+<h1 align="center">"Just a Dude in Space" 🚀</h1>
+
+<h2 align="center">~JADIS</h2>
 
 <p align="center">
   <b>Android Modder • AI Tinkerer • Digital Outlaw</b><br>
@@ -69,8 +71,8 @@
 
 > **“The only limits are the ones you accept.”**  
 >  
-> I believe in breaking boundaries, learning by doing, and building tools for the misfits, rebels, and visionaries.  
-> If you think something’s impossible, you haven’t met the right teacher—or the right code.
+> - I believe in breaking boundaries, learning by doing, and building tools for the misfits, rebels, and visionaries.  
+> - If you think something’s impossible, you haven’t met the right teacher—or the right code.
 
 ---
 
