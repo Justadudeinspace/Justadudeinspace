@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Justadudeinspace/blux/main/assets/blux_logo.txt" alt="BLUX ASCII Art" width="400"/>
+  <img src="https://mega.nz/file/rMxiFBLA#MdQsDq16DuBqz20dXbQtBScM-P3pGRcLMEOMBWheE-U" alt="~JADIS" width="400"/>
 </p>
 
 ---
