@@ -1,103 +1,83 @@
-<!-- Profile README for github.com/Justadudeinspace -->
+<div align="center">
+  <img src="https://github.com/Justadudeinspace/twrp-builder/blob/main/assets/jadis_signature_still.png" style="border-radius: 50;" alt="Justadudeinspace - JADIS">
+</div>
 
-<p align="center">
-  <img src="assets/AI_ART_1751514976008.jpg" alt="~JADIS" width="350"/>
-</p>
+<h1 align="center">👨‍🚀 Justadudeinspace</h1>
 
-<h1 align="center">"Just a Dude in Space" 🚀</h1>
-
-<h2 align="center">~JADIS</h2>
-
-<p align="center">
-  <b>Android Modder • AI Tinkerer • Digital Outlaw</b><br>
-  <i>“It can't be done” is not in my vocabulary.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Justadudeinspace/blux">
-    <img src="https://img.shields.io/github/stars/Justadudeinspace/blux?style=social" alt="BLUX Stars"/>
-  </a>
-  <a href="mailto:justadudeinspace4244@hotmail.com" target="_blank" rel="noopener noreferrer" title="Email me at justadudeinspace4244@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-justadudeinspace4244%40hotmail.com-0072C6?logo=microsoft-outlook&logoColor=white" alt="Hotmail Email Badge"/>
-</a>
-  <a href="https://t.me/Justadudeinspace">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram" alt="Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21">
-    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/Justadudeinspace">
-    <img src="https://img.shields.io/github/followers/Justadudeinspace?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🧩 **Self-taught coder, Android modder, and AI explorer**
-- 🔥 **Survivor, creator, and believer in the impossible**
-- 🛠️ **Building [BLUX](https://github.com/Justadudeinspace/blux): The Sovereign Android AI Forge**
-- 🧠 **No formal training. No limits. Just vision and grit.**
-- 💬 **Always open to collaboration, ideas, and wild experiments.**
-
----
-
-## 🚀 Featured Project: [BLUX](https://github.com/Justadudeinspace/blux)
-
-> **BLUX v2.0 – The Sovereign Android AI Forge**  
-> 100% offline, modular, terminal-based, and built for creators who refuse to accept “impossible.”
-
-<p align="center">
-  <a href="https://github.com/Justadudeinspace/blux">
-    <img src="https://img.shields.io/github/issues/Justadudeinspace/blux?color=blue" alt="BLUX Issues"/>
-    <img src="https://img.shields.io/github/last-commit/Justadudeinspace/blux?color=brightgreen" alt="Last Commit"/>
-    <img src="https://img.shields.io/github/license/Justadudeinspace/blux?color=yellow" alt="License"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech & Tools
+<h1 align="center">~JADIS</h1>
 
 <div align="center">
-  
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Termux](https://img.shields.io/badge/-Termux-000000?logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Acode](https://img.shields.io/badge/-Acode-1A73E8?logo=google-play&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open%20Source-0080FF?logo=github&logoColor=white)
+  <strong>TWRP Builder • Android-Only Dev • Termux Explorer</strong>  
+  <br/>
+  <em>“Impossible is not in my vocabulary.”</em>
+</div>
+
+---
+
+## 🧭 Manifesto: The Cosmic Dev Path
+
+I am **JADIS** — a self-forged developer.  
+No formal training. No mentors.  
+Just a madman in space with a rooted Pixel and an obsession with unlocking every secret Android has to offer.
+
+Everything I build — I build **directly on Android**.  
+From the depths of Termux to the clean lines of Acode.  
+No PC. No IDE bloat. No boundaries.
+
+I forge the tools that others say can't exist —  
+like a full **TWRP Builder App** that can create, log, backup, and flash custom recoveries,  
+_all inside your Android device_, with **ADB**, **shell integration**, and **root power**.
+
+> _"We are the ones who rewrite reality.  
+> Because rules were meant to be recompiled."_  
+> — JADIS
+
+---
+
+## 🔧 Current Work: TWRP Builder
+
+- 📲 Build recovery images directly on-device  
+- 🧩 Full integration with **Termux**, **ADB shell**, **root commands**, and **logcat**
+- 🔍 Live recovery log inspection, flag selection UI, and partition backup
+- 🤖 Preparing AI-assisted build feedback via **Ollama** LLM integration
+- 💾 No PC needed. No internet required. 100% local.
+
+🔗 [TWRP Builder GitHub Repo](https://github.com/Justadudeinspace/twrp-builder)
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?logo=gnu-bash&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-1A73E8?logo=google-play&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash%20Scripts-121011?logo=gnu-bash&logoColor=white)
+![No PC Needed](https://img.shields.io/badge/No%20PC-Required-000000?style=flat&logo=android&logoColor=limegreen)
 
 </div>
 
 ---
 
-## 🌌 My Philosophy
+## 💬 Poetic Purpose
 
-> **“The only limits are the ones you accept.”**  
->  
-> - I believe in breaking boundaries, learning by doing, and building tools for the misfits, rebels, and visionaries.  
-> - If you think something’s impossible, you haven’t met the right teacher—or the right code.
-
----
-
-## 📫 Connect
-
-- **Email:** [JADIS@Hotmail](justadudeinspace4244@hotmail.com)
-- **Telegram:** [@Justadudeinspace](https://t.me/Justadudeinspace)
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21)
-- **GitHub:** [Justadudeinspace](https://github.com/Justadudeinspace)
+> _"All I do in life,  
+> every shell I break and every system I bend,  
+> is for my daughter — **Briley Kay** —  
+> the starlight that guides this lone dev through the void."_
 
 ---
 
-<p align="center">
-  <img src="/assets/naut.png" alt="~JADIS" width="400"/>
-</p>
+## 📫 Connect with JADIS
 
----
+<div align="center">
 
-<p align="center">
-  <i>“Your Mind. Your Machine. Your Reality.”</i>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
+[![XDA Forums](https://img.shields.io/badge/XDA-Forums-orange?style=for-the-badge&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395)
+[![Patreon](https://img.shields.io/badge/Patreon-support-blueviolet?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Justadudeinspace)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Justadudeinspace)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justadudeinspace4244@hotmail.com)
+
+</div>
