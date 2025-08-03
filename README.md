@@ -1,4 +1,6 @@
-# <img src="https://github.com/Justadudeinspace/assets/AI_ART_1751514976008.jpg" alt="Header" width="100%"/>
+<div align="center">
+
+# <img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/AI_ART_1751514976008.jpg?raw=true" alt="Header" width="100%"/>
 
 ## Hello, I'm 'Just A Dude In Space' ~JADIS 🚀
 
@@ -50,4 +52,8 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-<img src="https://github.com/Justadudeinspace/Justadudeinspace/assets/naut.png" alt="Signature" width="200"/>
+<img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/naut.png?raw=true" alt="Signature" width="200"/>
+
+</div>
+
+---
