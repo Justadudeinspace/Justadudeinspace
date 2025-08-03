@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/AI_ART_1751514976008.jpg?raw=true" alt="Header" width="100%"/>
+<img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/AI_ART_1751514976008.jpg?raw=true" alt="Header" width="100%"/>
 
 ## Hello, I'm 'Just A Dude In Space' ~JADIS 🚀
 
