@@ -28,11 +28,12 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 🌌 Current Projects & Explorations
+### 🚀 Termux Enhancements (Currently Under Development)
 
-- **StellarScript**: A domain-specific language for astronomical calculations
-- **NebulaDB**: Distributed graph database optimized for spatial relationships
-- **Cosmic Visualizer**: WebGL-based visualization tool for large astronomical datasets
+**BLUX‑Lite** — Offline AI assistant for Termux with LLaMA 3, ddgr web search, memory, and plugin framework.  
+
+**Termux‑Background** — CLI + Android app for animated, blurred, and opaque terminal backgrounds in Termux.
+
 
 ---
 
