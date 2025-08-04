@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/AI_ART_1751514976008.jpg?raw=true" alt="Header" width="100%"/>
+# ![Header Banner](https://raw.githubusercontent.com/Justadudeinspace/Justadudeinspace/main/AI_ART_1751514976008.jpg)
 
-## Hello, I'm 'Just A Dude In Space' ~JADIS 🚀
+## I'm 'Just A Dude In Space' ~JADIS 🚀
 
 **Software Developer | Creative Technologist | Problem Solver | Android Modder**
 
@@ -36,11 +36,19 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 📡 Connect With Me
+## 📡 Connect & Support
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-justadudeinspace4242%40hotmail.com-D14836?style=flat&logo=mail&logoColor=white)](mailto:justadudeinspace4242@hotmail.com)
+
+[![Buy Me Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://coff.ee/justadudeinspace)
+
+[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://patreon.com/Justadudeinspace)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/2U7KLB2ACFNYF1)
+
+[![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395/)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspsce)
 
 ---
 
@@ -52,8 +60,6 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-<img src="https://github.com/Justadudeinspace/Justadudeinspace/blob/main/naut.png?raw=true" alt="Signature" width="200"/>
+![Signature](https://raw.githubusercontent.com/Justadudeinspace/Justadudeinspace/main/naut.png)
 
 </div>
-
----
