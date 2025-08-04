@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Header Banner](https://raw.githubusercontent.com/Justadudeinspace/Justadudeinspace/main/AI_ART_1751514976008.jpg)
+# ![Banner](./assets/AI_ART_1751514976008.jpg)
 
 ## I'm 'Just A Dude In Space' ~JADIS 🚀
 
@@ -60,6 +60,6 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-![Signature](https://raw.githubusercontent.com/Justadudeinspace/Justadudeinspace/main/naut.png)
+![Signature](./assets/naut.png)
 
 </div>
