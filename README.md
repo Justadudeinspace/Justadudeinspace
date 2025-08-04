@@ -10,7 +10,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit 🛠️
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,7 +28,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-### 🚀 Termux Enhancements (Currently Under Development)
+### Termux Enhancements 📱 (Currently Under Development)
 
 **BLUX‑Lite** — Offline AI assistant for Termux with LLaMA 3, ddgr web search, memory, and plugin framework.  
 
@@ -37,7 +37,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 📡 Connect & Support
+## Connect & Support 📡
 
 [![Email](https://img.shields.io/badge/-justadudeinspace4242%40hotmail.com-D14836?style=flat&logo=mail&logoColor=white)](mailto:justadudeinspace4242@hotmail.com)
 
@@ -53,7 +53,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 🚀 GitHub Stats
+## GitHub Stats 🛰️
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=justadudeinspace&show_icons=true&theme=dark)
 
@@ -64,3 +64,5 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 ![Signature](./assets/naut.png)
 
 </div>
+
+---
