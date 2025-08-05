@@ -49,7 +49,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 [![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395/)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspsce)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
 
 ---
 
