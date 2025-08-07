@@ -58,16 +58,17 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ## Connect & SuSupport�
 
-[![Email](https://imimg.shields.io/badge/-justadudeinspace4242%40hotmail.com-D14836?style=flatogo=mail&logoColor=white)](mailto:justadudeinspace4242@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-theoutervoid%40outlook.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:theoutervoid@outlook.com)
 
-[![Buy Me Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://coff.ee/justadudeinspace)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://coffe.ee/justadudeinspace)
 
-[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://papatreon.com/Justadudeinspace
+[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://patreon.com/Justadudeinspace)
+
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/2U7KLB2ACFNYF1)
 
-[![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdxdaforums.com/m/justadudeinspace.12852395
+[![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=fla t&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
 
 ---
 
