@@ -28,28 +28,46 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-### Termux Enhancements 📱 (Currently Under Development)
+### Developer Enhancements 📱 (Currently Under Development)
 
-**BLUX‑Lite** — Offline AI assistant for Termux with LLaMA 3, ddgr web search, memory, and plugin framework.  
+## 🚀 BLUX Project Umbrella
 
-**Termux‑Background** — CLI + Android app for animated, blurred, and opaque terminal backgrounds in Termux.
+**BLUX** is my open-source ecosystem for next-gen, privacy-first, modular AI tools—empowering developers and creators across platforms.
+
+> **Local-first. Ethical. Community-driven. Built for every device.**
+
+**Explore the BLUX family:**
+
+- 🧠 [BLUX-cA](https://github.com/Justadudeinspace/blux-ca): Modular Coding Agent & AI "hive mind"
+- ⚡ [BLUX-Quantum](https://github.com/Justadudeinspace/blux-quantum): Standalone CLI & plug-in for next-level workflows
+- 💡 [BLUX-Lite](https://github.com/Justadudeinspace/blux-lite): Lightweight, privacy-focused AI terminal for Termux & Ubuntu
+
+**Docs & roadmap:**  
+[BLUX Central](https://github.com/Justadudeinspace/blux)
+
+---
+
+> *Join the BLUX journey: open to contributors, visionaries, and all who believe AI should be open and empowering for everyone.*
+
+### Other Projects 📱 (Currently Under Development)
+
+**Termux‑Background** — An Android app for animated, blurred, and opaque terminal backgrounds in Termux.
 
 
 ---
 
-## Connect & Support 📡
+## Connect & SuSupport�
 
-[![Email](https://img.shields.io/badge/-justadudeinspace4242%40hotmail.com-D14836?style=flat&logo=mail&logoColor=white)](mailto:justadudeinspace4242@hotmail.com)
+[![Email](https://imimg.shields.io/badge/-justadudeinspace4242%40hotmail.com-D14836?style=flatogo=mail&logoColor=white)](mailto:justadudeinspace4242@hotmail.com)
 
 [![Buy Me Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://coff.ee/justadudeinspace)
 
-[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://patreon.com/Justadudeinspace)
-
+[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://papatreon.com/Justadudeinspace
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/2U7KLB2ACFNYF1)
 
-[![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395/)
+[![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdxdaforums.com/m/justadudeinspace.12852395
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=fla t&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
 
 ---
 
