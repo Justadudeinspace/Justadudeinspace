@@ -51,7 +51,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ### Other Projects 📱 (Currently Under Development)
 
-**Termux‑Background** — An Android app for animated, blurred, and opaque terminal backgrounds in Termux.
+- 🖼️ [Termux‑Background](https://github.com/Justadudeinspace/termux-background) — An Android app for animated, blurred, and opaque terminal backgrounds in Termux.
 
 
 ---
