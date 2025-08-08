@@ -4,7 +4,7 @@
 
 ## I'm 'Just A Dude In Space' ~JADIS 🚀
 
-**Software Developer (Academic Student @ South College)** | Creative Technologist | Problem Solver | Android Modder**
+**Software Developer (Academic Student @ South College) | Creative Technologist | Problem Solver | Android Modder**
 
 Welcome to my cosmic corner of GitHub! I'm passionate about building elegant solutions to complex problems and exploring the intersection of technology and creativity. My code is my spaceship, and each commit is a small step into the unknown.
 
