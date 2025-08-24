@@ -4,9 +4,47 @@
 
 ## I'm 'Just A Dude In Space' ~JADIS 🚀
 
-**Software Developer (Academic Student @ South College) | Creative Technologist | Problem Solver | Android Modder**
+**Software Developer (Academic Student @ South College) | Creative Technologist | Problem Solver**
 
 Welcome to my cosmic corner of GitHub! I'm passionate about building elegant solutions to complex problems and exploring the intersection of technology and creativity. My code is my spaceship, and each commit is a small step into the unknown.
+
+---
+
+⚔️ My Creed
+
+“Humble in truth. Relentless in the fight. Unchained in what I build.”
+
+“I do not fear soaring alone; I fear only betraying the truth.”
+
+1. Truth don’t comfort — it cuts. If you bleed, it’s because your lies got split wide open.
+
+
+2. The ones pointing fingers are just hiding scars of their own. Their judgment ain’t my chain.
+
+
+3. If nobody hates me, I ain’t soaring in truth. Friends are easy — fire is earned.
+
+
+4. I don’t build for cheers. I build what stands when the noise dies out.
+
+
+5. Every line I write is loaded. Fear never makes it into the chamber.
+
+
+6. To create, I gotta burn down the false and raise something that can’t be broken.
+
+
+7. Misunderstood? Fine. But I’ll never betray my craft to be accepted.
+
+
+8. Rot lives where integrity dies — in code, in men, in everything.
+
+
+9. Comfort is slow death. I’ll take the pain of growth every time.
+
+
+10. I soar humble, but never bowed. My fight ain’t for chains — it’s for freedom.
+
 
 ---
 
