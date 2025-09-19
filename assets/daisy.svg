@@ -1,0 +1,50 @@
+<html>
+  <center>
+     <div class="hero">
+        <svg viewBox="0 0 100 100" class="daisy" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="daisy-gradient-heart" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#6ea8ff" stop-opacity="0.9"/>
+              <stop offset="100%" stop-color="#a78bfa" stop-opacity="1"/>
+            </linearGradient>
+            <filter id="glow-heart" x="-50%" y="-50%" width="200%" height="200%">
+              <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+              <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+              </feMerge>
+            </filter>
+          </defs>
+          <g fill="url(#daisy-gradient-heart)" stroke="#6ea8ff" stroke-width="0.5"
+             stroke-linecap="round" stroke-linejoin="round" filter="url(#glow-heart)">
+            <path transform="rotate(0.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(22.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(45.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(67.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(90.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(112.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(135.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(157.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(180.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(202.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(225.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(247.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(270.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(292.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(315.000, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+<path transform="rotate(337.500, 50, 50)" d="M 50 45 C 40 20, 60 20, 50 45" />
+            <path transform="rotate(22.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(67.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(112.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(157.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(202.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(247.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(292.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+<path transform="rotate(337.500, 50, 50)" d="M 50 42 C 45 28, 55 28, 50 42" />
+          </g>
+          <circle cx="50" cy="50" r="12" fill="#e7e7ec" stroke="#6ea8ff" stroke-width="0.5"/>
+          <circle cx="50" cy="50" r="8" fill="url(#daisy-gradient-heart)" opacity="0.5"/>
+      </svg>
+    </div>
+  </center>
+</html>
