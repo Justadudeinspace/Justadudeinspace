@@ -1,16 +1,18 @@
 <div align="center">
 
-# ![Banner](./assets/AI_ART_1751514976008.jpg)
+# ![Banner](./assets/jadis.jpg)
 
 ## I'm 'Just A Dude In Space' ~JADIS 🚀
 
-**Software Developer (Academic Student @ South College) | Creative Technologist | Problem Solver**
+**Software Developer | Creative Technologist | Problem Solver | Project's Visionary**
 
 Welcome to my cosmic corner of GitHub! I'm passionate about building elegant solutions to complex problems and exploring the intersection of technology and creativity. My code is my spaceship, and each commit is a small step into the unknown.
 
+</div>
+
 ---
 
-⚔️ My Creed
+## ⚔️ My Creed
 
 “Humble in truth. Relentless in the fight. Unchained in what I build.”
 
@@ -45,10 +47,17 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 10. I soar humble, but never bowed. My fight ain’t for chains — it’s for freedom.
 
+---
+
+<p align="center">
+  <img src="assets/daisy.jpg" width="220" alt="Daisy" />
+</p>
 
 ---
 
-## Technical Toolkit 🛠️
+## 🛠️ Technical Toolkit
+
+<div align="center">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,51 +75,63 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-### Developer Enhancements 📱 (Currently Under Development)
+### 📱 Developer Enhancements (Currently Under Development)
+
+</div>
 
 ## 🚀 BLUX Project Umbrella
 
-**BLUX** is my open-source ecosystem for next-gen, privacy-first, modular AI tools—empowering developers and creators across platforms.
+**BLUX** is an open-source ecosystem for next-gen, privacy-first, modular AI tools—empowering developers and creators across platforms.
 
 > **Local-first. Ethical. Community-driven. Built for every device.**
 
 **Explore the BLUX family:**
 
-- 🧠 [BLUX-cA](https://github.com/Justadudeinspace/blux-ca): Modular Coding Agent & AI "hive mind"
-- ⚡ [BLUX-Quantum](https://github.com/Justadudeinspace/blux-quantum): Standalone CLI & plug-in for next-level workflows
-- 💡 [BLUX-Lite](https://github.com/Justadudeinspace/blux-lite): Lightweight, privacy-focused AI terminal for Termux & Ubuntu
+- 🧠 [BLUX-cA](https://github.com/Justadudeinspace/blux-ca): Modular Conscious Agent AI Assistant — Coming Soon - (( • ))
+- ⚡[BLUX Quantum](https://github.com/Justadudeinspace/blux-quantum): Standalone CLI & Plugin for next-level workflows — Coming Soon - (( • ))
+- 💡 [BLUX Lite GOLD](https://github.com/Justadudeinspace/blux-lite): BLUX Lite GOLD is my flagship project — a modular AI orchestrator designed to run locally with a simple **one-file startup** flow and dual interface options (Legacy CLI or modern Textual TUI). It features a plugin-based architecture (`.libf` framework) for memory, notes, exports, and project routing, with a self-contained config system under `.config/blux-lite-gold`.  
 
-**Docs & roadmap:**  
-[BLUX Central](https://github.com/Justadudeinspace/blux)
+The vision is straightforward:  
+- **Accessible** — quick install, simple launch.  
+- **Modular** — extend with scripts and plugins.  
+- **Transparent** — readable codebase, open design.  
+- **Forward-looking** — a foundation for autonomous, multi-model AI orchestration.  
+
+This project represents my approach to building **practical AI tools with clarity and adaptability**, while keeping the door open to advanced orchestration concepts.  
+
+Near Ready v1.0.0 Release Drop — Coming Soon!
+
+(( • ))
+  
+- 📃 [BLUX Umbrella Central](https://github.com/Justadudeinspace/blux): **BLUX Umbrella Project / Ecosystem Home Page | Docs & Roadmap:**
 
 ---
 
 > *Join the BLUX journey: open to contributors, visionaries, and all who believe AI should be open and empowering for everyone.*
 
-### Other Projects 📱 (Currently Under Development)
+---
+
+### 📱 Other Projects (Currently On Back Burner)
 
 - 🖼️ [Termux‑Background](https://github.com/Justadudeinspace/termux-background) — An Android app for animated, blurred, and opaque terminal backgrounds in Termux.
 
-
 ---
 
-## Connect & SuSupport�
+## � Connect & Support
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-theoutervoid%40outlook.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:theoutervoid@outlook.com)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://coffe.ee/justadudeinspace)
-
-[![Patreon](https://img.shields.io/badge/-Support%20on%20Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://patreon.com/Justadudeinspace)
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/qr/2U7KLB2ACFNYF1)
-
 [![XDA Forums](https://img.shields.io/badge/-XDA%20Forums-EA7100?style=flat&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/justadudeinspace.12852395)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Justadudeinspace)
+</div>
 
 ---
 
-## GitHub Stats 🛰️
+## 🛰️ GitHub Stats
+
+<div align="center">
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=justadudeinspace&show_icons=true&theme=dark)
 
