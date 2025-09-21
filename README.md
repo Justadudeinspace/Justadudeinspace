@@ -85,12 +85,6 @@ The **BLUX ecosystem**, a suite of open-source, local-first AI tools designed fo
 
 > **Local-first. Ethical. Community-driven. Built for every device.**
 
-**Explore the BLUX family:**
-
-- 🧠 [BLUX-cA](https://github.com/Justadudeinspace/blux-ca) — *The Conscious Agent*: principled AI with a discernment compass and constitutional backbone. *(Coming Soon — (( • )))*  
-- ⚡ [BLUX Quantum](https://github.com/Justadudeinspace/blux-quantum) — *Precision CLI & Plugin Fabric*: gemini-cli–inspired workflows with awareness hooks and orchestrator integration. *(Coming Soon — (( • )))*  
-- 💡 [BLUX Lite GOLD](https://github.com/Justadudeinspace/blux-lite) — *Flagship orchestrator*: runs fully local with a one-file startup, dual UI (Legacy CLI + Textual TUI), and plugin-based `.libf` framework for memory, notes, exports, and routing. Config is self-contained under `.config/blux-lite-gold`. *(Update In Progress — (( • )))*
-
 **Vision**  
 - **Accessible** — simple install, quick launch.  
 - **Modular** — extend with plugins, tools, and scripts.  
@@ -99,11 +93,22 @@ The **BLUX ecosystem**, a suite of open-source, local-first AI tools designed fo
 
 I’m building BLUX as a proof of vision: **practical AI tools with clarity today, scaffolding for multifaceted intelligence tomorrow**.  
 
+
+## 🌌 BLUX Ecosystem Navigation
+
+**Explore the BLUX family:**
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🌐 **Umbrella (blux)** | Central hub with vision, docs, and project roadmap. | [github.com/Justadudeinspace/blux](https://github.com/Justadudeinspace/blux) |
+| 💡 **BLUX Lite GOLD** | Flagship orchestrator — local-first, one-file startup, dual UI (Legacy CLI + TUI), `.libf` plugin framework. | [github.com/Justadudeinspace/blux-lite](https://github.com/Justadudeinspace/blux-lite) |
+| ⚡ **BLUX Quantum** | Precision CLI & plugin fabric (gemini-cli inspired) with awareness hooks + orchestrator integration. | [github.com/Justadudeinspace/blux-quantum](https://github.com/Justadudeinspace/blux-quantum) |
+| 🧠 **BLUX-cA** | The *Conscious Agent* — discernment compass, constitutional spine, immutable audits. | [github.com/Justadudeinspace/blux-ca](https://github.com/Justadudeinspace/blux-ca) |
+| 🕹️ **BLUX Commander** | Future web-first control panel: secure dashboards, session replay, phone “door” integration. | [github.com/Justadudeinspace/blux-commander](https://github.com/Justadudeinspace/blux-commander) |
+
 📦 **v1.0.0 of BLUX Lite GOLD** is near release — stay tuned.  
 
 **(( • ))**
-  
-- 📃 [BLUX Umbrella Central](https://github.com/Justadudeinspace/blux): **BLUX Umbrella Project / Ecosystem Home Page | Docs & Roadmap:**
 
 ---
 
