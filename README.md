@@ -79,44 +79,14 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 </div>
 
-## 🚀 BLUX Project Umbrella
+## 🚀 BLUX
 
-The **BLUX ecosystem**, a suite of open-source, local-first AI tools designed for integrity, modularity, and adaptability.
-
-> **Local-first. Ethical. Community-driven. Built for every device.**
-
-**Vision**  
-- **Accessible** — simple install, quick launch.  
-- **Modular** — extend with plugins, tools, and scripts.  
-- **Transparent** — readable code, auditable design.  
-- **Forward-looking** — a foundation for autonomous, multi-model orchestration.  
-
-I’m building BLUX as a proof of vision: **practical AI tools with clarity today, scaffolding for multifaceted intelligence tomorrow**.  
-
-
-## 🌌 BLUX Ecosystem Navigation
-
-**Explore the BLUX family:**
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🌐 **Umbrella (blux)** | Central hub with vision, docs, and project roadmap. | [github.com/Justadudeinspace/blux](https://github.com/Justadudeinspace/blux) |
 | 💡 **BLUX Lite GOLD** | Flagship orchestrator — local-first, one-file startup, dual UI (Legacy CLI + TUI), `.libf` plugin framework. | [github.com/Justadudeinspace/blux-lite](https://github.com/Justadudeinspace/blux-lite) |
-| ⚡ **BLUX Quantum** | Precision CLI & plugin fabric (gemini-cli inspired) with awareness hooks + orchestrator integration. | [github.com/Justadudeinspace/blux-quantum](https://github.com/Justadudeinspace/blux-quantum) |
-| 🧠 **BLUX-cA** | The *Conscious Agent* — discernment compass, constitutional spine, immutable audits. | [github.com/Justadudeinspace/blux-ca](https://github.com/Justadudeinspace/blux-ca) |
-| 🕹️ **BLUX Commander** | Future web-first control panel: secure dashboards, session replay, phone “door” integration. | [github.com/Justadudeinspace/blux-commander](https://github.com/Justadudeinspace/blux-commander) |
 
-📦 **v1.0.0 of BLUX Lite GOLD** is near release — stay tuned.  
-
-**(( • ))**
 
 ---
 
-> *Join the BLUX journey: open to contributors, visionaries, and all who believe AI should be open and empowering for everyone.*
-
----
-
-### 📱 Other Projects (Currently On Back Burner)
+### 📱 Other Projects
 
 - 🖼️ [Termux‑Background](https://github.com/Justadudeinspace/termux-background) — An Android app for animated, blurred, and opaque terminal backgrounds in Termux.
 
