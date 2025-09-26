@@ -92,9 +92,19 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-## 🔥 Ashes to Code
-Walking through fire, line by line.  
-[Ashes to Code DevLog](https://github.com/Justadudeinspace/asshes-to-code/README.md)
+## 🌌 Ashes to Code
+
+**Ashes to Code (ATC)** is the raw, unfiltered journal behind the making of BLUX Lite GOLD.  
+It documents the struggle, resilience, and vision that forged this project from nothing.  
+
+> Built not in comfort, but in fire.  
+> Pushed forward through uncertainty, doubt, and hardship.  
+> Every line of code is backed by lived experience and the refusal to quit.  
+
+Ashes to Code is where BLUX shows its heart.  
+If BLUX Lite GOLD is the product — **Ashes to Code is the story.**
+
+- Follow the journey here → [Ashes to Code](https://github.com/Justadudeinspace/ashes-to-code)
 
 (( • ))
 
