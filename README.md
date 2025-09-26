@@ -94,7 +94,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ## 🔥 Ashes to Code
 Walking through fire, line by line.  
-Latest entry → [Flame Walker — 2025-09-25](https://github.com/Justadudeinspace/ashes-to-code/blob/main/devlog/flame-walker-2025-09-25.md)
+[Ashes to Code DevLog](https://github.com/Justadudeinspace/asshes-to-code/README.md)
 
 (( • ))
 
