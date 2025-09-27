@@ -12,6 +12,12 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
+![Rebel_Eng](https://img.shields.io/badge/Rebel_Eng-black?style=for-the-badge&logo=terminal&logoColor=white)
+![Alchemy_Writer](https://img.shields.io/badge/Alchemy_Writer-purple?style=for-the-badge&logo=markdown&logoColor=white)
+![Consc_Coder](https://img.shields.io/badge/Consc_Coder-gold?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
 ## ⚔️ My Creed
 
 “Humble in truth. Relentless in the fight. Unchained in what I build.”
