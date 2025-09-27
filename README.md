@@ -12,9 +12,13 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ---
 
-![Rebel_Eng](https://img.shields.io/badge/Rebel_Eng-black?style=for-the-badge&logo=terminal&logoColor=white)
-![Alchemy_Writer](https://img.shields.io/badge/Alchemy_Writer-purple?style=for-the-badge&logo=markdown&logoColor=white)
-![Consc_Coder](https://img.shields.io/badge/Consc_Coder-gold?style=for-the-badge&logo=python&logoColor=black)
+<div align="center">
+
+![Rebel_Eng](https://img.shields.io/badge/Rebel_Eng-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Alchemy_Writer](https://img.shields.io/badge/Alchemy_Writer-1E90FF?style=for-the-badge&logo=markdown&logoColor=white)
+![Consc_Coder](https://img.shields.io/badge/Consc_Coder-FFD700?style=for-the-badge&logo=python&logoColor=black)
+
+</div>
 
 ---
 
