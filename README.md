@@ -91,7 +91,7 @@ Welcome to my cosmic corner of GitHub! I'm passionate about building elegant sol
 
 ## 🚀 BLUX
 
-| 💡 **BLUX Lite GOLD** | Flagship orchestrator — local-first, one-file startup, dual UI (Legacy CLI + TUI), `.libf` plugin framework. | [github.com/Justadudeinspace/blux-lite](https://github.com/Justadudeinspace/blux-lite) |
+| 💡 **[BLUX Lite GOLD](https://github.com/Justadudeinspace/blux-lite)** | Flagship orchestrator — local-first, one-file startup, dual UI (Legacy CLI + TUI), `.libf` plugin framework. |
 
 
 ---
