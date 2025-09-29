@@ -1,6 +1,6 @@
 
 
-# Hi, I’m JADIS 👋
+# Hi, I’m JADIS
 
 Software builder · Psychologist at heart · Open-source developer
 
@@ -30,7 +30,9 @@ Leaving behind a meaningful foundation for the next generation.
 ## 📫 Connect
 
 GitHub Repos:
+
 • [BLUX Lite GOLD](https://github.com/Justadudeinspace/blux-lite)
+
 • [Ashes to Code](https://github.com/Justadudeinspace/ashes-to-code)
 
 
