@@ -25,11 +25,11 @@ I translate lived philosophy into executable architecture. Every interface, daem
 
 ### 🛰️ BLUX Ecosystem — Proof of Skill & Heart
 
-- **BLUX-Ecosystem** — the trust kernel and orchestration lattice binding autonomous agents across devices.
-- **BLUX-Lite GOLD** — portable hive-mind core with registry, router, evaluator, and controller layers tuned for edge resilience.
-- **BLUX-cA** — reflective conscience layer that encodes symbolic capsules and constitutional ethics for safe autonomy.
-- **BLUX-Guard** — defensive cockpit for Termux and embedded Linux, hardening pipelines with sandboxed automation and audit trails.
-- **BLUX-Doctrine** — philosophy codified: Unity • Responsibility • Right Action • Risk • Worth.
+- **[BLUX-Ecosystem](https://github.com/Outer-Void/blux-ecosystem)** — the trust kernel and orchestration lattice binding autonomous agents across devices.
+- **[BLUX-Lite GOLD](https://github.com/Outer-Void/blux-lite)** — portable hive-mind core with registry, router, evaluator, and controller layers tuned for edge resilience.
+- **[BLUX-cA](https://github.com/Outer-Void/blux-ca)** — reflective conscience layer that encodes symbolic capsules and constitutional ethics for safe autonomy.
+- **[BLUX-Guard](https://github.com/Outer-Void/blux-guard)** — defensive cockpit for Termux and embedded Linux, hardening pipelines with sandboxed automation and audit trails.
+- **[BLUX-Doctrine](https://github.com/Outer-Void/blux-doctrine)** — philosophy codified: Unity • Responsibility • Right Action • Risk • Worth.
 
 ---
 
