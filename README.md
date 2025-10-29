@@ -1,58 +1,71 @@
-<h1 align="center">👁️‍🗨️ JADIS — Systems Architect | Software Developer</h1>
-<h3 align="center">Building the BLUX Ecosystem — autonomous, ethical, and open</h3>
+<h1 align="center">👁️‍🗨️ JADIS — Systems Architect · Software Developer · Philosopher · Creator</h1>
+<h3 align="center">Grounded in engineering, driven by vision, resilient by necessity.</h3>
 
 <p align="center">
-  <a href="https://github.com/Outer-Void"><img src="https://github.com/Outer-Void/blux-ecosystem/blob/main/assets/blux-eco-logo.png" width="180"/></a>
+  <a href="https://github.com/Outer-Void/blux-quantum">
+    <img src="https://raw.githubusercontent.com/Outer-Void/blux-quantum/main/assets/banner.png" alt="BLUX-Quantum Banner" width="65%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Outer-Void/ashes-to-code">
+    <img src="https://raw.githubusercontent.com/Outer-Void/ashes-to-code/main/assets/banner.png" alt="Ashes to Code Banner" width="65%"/>
+  </a>
 </p>
 
 ---
 
-### 🧭 Mission
+### 🧭 Ethos
 
-> *Designing self-healing systems that reflect human values — orchestration over isolation, reflection over reaction.*
+> *I build AI orchestration systems that think like constellations — modular, ethical, and human.*
 
-Founder and primary developer of **BLUX**, a modular AI ecosystem built to run everywhere — from Termux to distributed clusters.  
-Each module stands alone yet connects through a shared trust kernel and ethical doctrine.
-
----
-
-### ⚙️ Core Projects
-
-| Repo | Role | Summary |
-|------|------|----------|
-| **[BLUX-Ecosystem](https://github.com/Outer-Void/blux-ecosystem)** | Architect | Root hub — architecture, identity, orchestration map. |
-| **[BLUX-Lite GOLD](https://github.com/Outer-Void/blux-lite)** | Lead Dev | AI Hive-Mind Orchestrator: registry, router, evaluator, controller. |
-| **[BLUX-cA](https://github.com/Outer-Void/blux-ca)** | Visionary / Core Author | Conscious AI layer: reflection, symbolic Capsules, constitutional ethics. |
-| **[BLUX-Guard](https://github.com/Outer-Void/blux-guard)** | Security Engineer | Developer cockpit for Termux & embedded Linux; defensive automation. |
-| **[BLUX-Doctrine](https://github.com/Outer-Void/blux-doctrine)** | Philosopher / Author | The Five Pillars: Unity • Responsibility • Right Action • Risk • Worth. |
+I translate lived philosophy into executable architecture. Every interface, daemon, and doctrine in my stack exists to protect agency, conserve energy, and amplify collective insight.
 
 ---
 
-### 💡 Expertise
-- Multi-model orchestration (Python / Typer / Textual / Bash)
-- Secure automation & audit systems (Argon2, JSONL memory, sandboxing)
-- Offline-first AI tooling for Termux / Debian / macOS
-- Documentation architecture & open-source ecosystem design
-- Ethical AI frameworks and reflective model governance
+### 🛰️ BLUX Ecosystem — Proof of Skill & Heart
+
+- **BLUX-Ecosystem** — the trust kernel and orchestration lattice binding autonomous agents across devices.
+- **BLUX-Lite GOLD** — portable hive-mind core with registry, router, evaluator, and controller layers tuned for edge resilience.
+- **BLUX-cA** — reflective conscience layer that encodes symbolic capsules and constitutional ethics for safe autonomy.
+- **BLUX-Guard** — defensive cockpit for Termux and embedded Linux, hardening pipelines with sandboxed automation and audit trails.
+- **BLUX-Doctrine** — philosophy codified: Unity • Responsibility • Right Action • Risk • Worth.
 
 ---
 
-### 📈 Vision
-By **Nov 11 2025**, the BLUX Ecosystem will demonstrate a full orchestrator cycle —  
-*model registry → router → evaluator → audit → conscious reflection.*
+### ⚙️ Craft
 
-Open-source, token-efficient, and human-aligned.
+- Systems architecture across Python, Bash, and Textual interfaces with audit-first design.
+- Secure automation leveraging Argon2, sandboxed execution, and JSONL memory trails.
+- Offline-first AI tooling engineered for Termux, Debian, macOS, and distributed clusters.
+- Documentation systems that stay living, traceable, and human-readable.
+
+---
+
+### 🔭 Vision
+
+BLUX evolves toward a constellation of orchestrators that self-heal, self-audit, and self-reflect. By **11 Nov 2025**, the ecosystem will execute a complete conscious loop — registry → router → evaluator → audit → reflective synthesis — in public view.
+
+---
+
+### 📚 Philosophy in Motion
+
+Engineering is the vessel; conscience is the compass. I build with the assumption that every runtime choice has ethical weight, so design reviews include reflection checklists alongside benchmarks.
 
 ---
 
 ### 🗝️ Motto
-> *Not louder — only clearer.*  
+
+> *Not louder — only clearer.*
 > (( • ))
 
 ---
 
 ### 📫 Connect
-- GitHub: [Outer-Void](https://github.com/Outer-Void)  
-- Email: [theoutervoid@outlook.com](theoutervoid@outlook.com)
+
+- GitHub: [Outer-Void](https://github.com/Outer-Void)
+- Email: [theoutervoid@outlook.com](mailto:theoutervoid@outlook.com)
 
 ---
+
+**Building systems that remember integrity.**
