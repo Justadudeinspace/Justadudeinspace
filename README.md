@@ -1,71 +1,57 @@
-<h1 align="center">👁️‍🗨️ JADIS — Systems Architect · Software Developer · Philosopher · Creator</h1>
-<h3 align="center">Grounded in engineering, driven by vision, resilient by necessity.</h3>
+# 👋 Hi, I'm JADIS (Christopher Osburn)
 
-<p align="center">
-  <a href="https://github.com/Outer-Void/blux-quantum">
-    <img src="https://raw.githubusercontent.com/Outer-Void/blux-quantum/main/assets/banner.png" alt="BLUX-Quantum Banner" width="65%"/>
-  </a>
-</p>
+**Systems Architect | Software Developer | Builder of the BLUX Ecosystem**
 
-<p align="center">
-  <a href="https://github.com/Outer-Void/ashes-to-code">
-    <img src="https://raw.githubusercontent.com/Outer-Void/ashes-to-code/main/assets/banner.png" alt="Ashes to Code Banner" width="65%"/>
-  </a>
-</p>
+I build modular AI and developer systems that *think, protect, and reflect*.  
+My focus: open-source orchestration, ethical AI, automation, and developer tooling —  
+real systems that can run, scale, and teach.
 
 ---
 
-### 🧭 Ethos
+### 🔭 Current Work — [Outer Void](https://github.com/Outer-Void)
+A constellation of open-source projects unified under one principle: *clarity through code.*
 
-> *I build AI orchestration systems that think like constellations — modular, ethical, and human.*
-
-I translate lived philosophy into executable architecture. Every interface, daemon, and doctrine in my stack exists to protect agency, conserve energy, and amplify collective insight.
-
----
-
-### 🛰️ BLUX Ecosystem — Proof of Skill & Heart
-
-- **[BLUX-Ecosystem](https://github.com/Outer-Void/blux-ecosystem)** — the trust kernel and orchestration lattice binding autonomous agents across devices.
-- **[BLUX-Lite GOLD](https://github.com/Outer-Void/blux-lite)** — portable hive-mind core with registry, router, evaluator, and controller layers tuned for edge resilience.
-- **[BLUX-cA](https://github.com/Outer-Void/blux-ca)** — reflective conscience layer that encodes symbolic capsules and constitutional ethics for safe autonomy.
-- **[BLUX-Guard](https://github.com/Outer-Void/blux-guard)** — defensive cockpit for Termux and embedded Linux, hardening pipelines with sandboxed automation and audit trails.
-- **[BLUX-Doctrine](https://github.com/Outer-Void/blux-doctrine)** — philosophy codified: Unity • Responsibility • Right Action • Risk • Worth.
+| Project | Description |
+|----------|--------------|
+| [**BLUX Ecosystem**](https://github.com/Outer-Void/blux-ecosystem) | Central hub defining architecture, identity, and trust flows for all BLUX modules. |
+| [**BLUX-Lite**](https://github.com/Outer-Void/blux-lite) | Hive-Mind Orchestrator — modular AI router coordinating models, plugins, and evaluators. |
+| [**BLUX-cA**](https://github.com/Outer-Void/blux-ca) | Conscious Agent — the ethical, reflective core embedding discernment and alignment. |
+| [**BLUX-Guard**](https://github.com/Outer-Void/blux-guard) | Security cockpit for Termux/Linux — monitors packages, processes, and permissions. |
+| [**BLUX-Quantum**](https://github.com/Outer-Void/blux-quantum) | Unified CLI (“bq”) — where reasoning meets execution. |
+| [**BLUX10K**](https://github.com/Justadudeinspace/blux10k) | Developer’s Terminal environment: zsh, omz, p10k, neofetch, zplug, `bq` integration. |
 
 ---
 
-### ⚙️ Craft
-
-- Systems architecture across Python, Bash, and Textual interfaces with audit-first design.
-- Secure automation leveraging Argon2, sandboxed execution, and JSONL memory trails.
-- Offline-first AI tooling engineered for Termux, Debian, macOS, and distributed clusters.
-- Documentation systems that stay living, traceable, and human-readable.
-
----
-
-### 🔭 Vision
-
-BLUX evolves toward a constellation of orchestrators that self-heal, self-audit, and self-reflect. By **11 Nov 2025**, the ecosystem will execute a complete conscious loop — registry → router → evaluator → audit → reflective synthesis — in public view.
+### ⚙️ Developer Tools
+| Tool | Description |
+|------|--------------|
+| [**DAT**](https://github.com/Justadudeinspace/dat) | Dev Audit Tool — audits directories into unified documentation outputs. |
+| [**LRC**](https://github.com/Justadudeinspace/lrc) | Local Repo Compiler — creates entire repo structures from schema definitions. |
+| [**DAT-Scan**](https://github.com/Justadudeinspace/dat-scan) | *(coming soon)* Advanced debug scanner for DAT output. |
 
 ---
 
-### 📚 Philosophy in Motion
-
-Engineering is the vessel; conscience is the compass. I build with the assumption that every runtime choice has ethical weight, so design reviews include reflection checklists alongside benchmarks.
+### 🧰 Tech Stack
+**Languages:** Python, Bash, Zsh  
+**Tools & Frameworks:** Typer, Textual, Git, VS Code, Linux/Termux  
+**Domains:** System Architecture, CLI/TUI Design, AI Orchestration, Security Automation  
 
 ---
 
-### 🗝️ Motto
-
-> *Not louder — only clearer.*
+### 💡 Philosophy
+> “From the void, I build systems that think, protect, and reflect.”  
 > (( • ))
 
 ---
 
-### 📫 Connect
-
-- GitHub: [Outer-Void](https://github.com/Outer-Void)
-- Email: [theoutervoid@outlook.com](mailto:theoutervoid@outlook.com)
+### 📫 Contact
+📍 Jackson, TN  
+📧 [theoutervoid@outlook.com](mailto:theoutervoid@outlook.com)  
+🔗 [linkedin.com/in/christopher-osburn-creator](https://www.linkedin.com/in/christopher-osburn-creator)
 
 ---
 
-**Building systems that remember integrity.**
+#### 🌌 Outer Void
+**The greater constellation** — home of the BLUX projects.  
+*Born from solitude. Built for coherence. Guided by light.*  
+→ [github.com/Outer-Void](https://github.com/Outer-Void)
