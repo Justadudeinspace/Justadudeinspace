@@ -5,6 +5,13 @@
 I design and build **practical, auditable systems** — not demos, not abstractions.  
 My focus is on **AI orchestration, ethical governance, developer tooling, and transparent automation** that can *run anywhere* (including Termux and constrained environments).
 
+I’m a Christian developer.
+My work is shaped by a commitment to truth, responsibility, humility, and care for people over systems.
+
+Faith informs how I build — not as branding or doctrine, but as alignment: integrity in design, accountability in execution, and restraint where technology can harm.
+
+I use modern tools, including AI, with the belief that power without conscience is failure, and clarity without honesty is illusion.
+
 I contribute by:
 - fixing issues directly with disciplined, patch-first workflows  
 - improving architecture, docs, and automation ergonomics  
