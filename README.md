@@ -57,6 +57,22 @@ Telegram moderation and automation platform with structured decision systems.
 
 ---
 
+## 🚀 DevBoard
+
+A structured space for developers to showcase projects and get real feedback.
+
+Most platforms bury posts or lack context—DevBoard standardizes how projects are presented so they’re easier to understand and evaluate.
+
+📌 Share your work  
+📌 Get useful feedback  
+📌 Connect with builders  
+
+- [Reddit](https://reddit.com/r/DevBoard)
+- [Facebook](https://www.facebook.com/share/g/1CJ1m8TtfV/)
+
+---
+
 ## Contact / Links
 
-- GitHub: https://github.com/Outer-Void
+- [Outer-Void](https://github.com/Outer-Void)
+- [Email JADIS](outervoid.jadis@gmail.com)
