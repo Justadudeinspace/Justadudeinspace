@@ -1,78 +1,133 @@
-# Justadudeinspace — JADIS 
+Christopher Osburn
 
-**Systems Architect | AI Systems (BLUX) | Developer Tooling | Outer-Void**
+Software Developer · AI-Assisted Builder · Rapid Prototyper · Systems Thinker
 
----
+I build software by starting with the problem and figuring out what has to exist to solve it.
 
-## About
+I'm a self-taught developer working across Python, Android/Kotlin, backend systems, automation, developer tooling, APIs, and AI-assisted development.
 
-I build structured systems.
+My background isn't traditional computer science. I spent years building things in the physical world before teaching myself how to build them digitally.
 
-My work focuses on creating modular, scalable, and deterministic environments for AI, developer tooling, and system-level architecture.
+That background still shapes how I work:
 
-Currently developing the **BLUX ecosystem** under Outer-Void — a unified framework for structured reasoning, datasets, and cross-platform tooling.
-
----
-
-## Core Focus
-
-- AI System Architecture (BLUX: cA / CogA)
-- Developer Tooling & CLI Systems
-- Modular System Design
-- Dataset Structuring & Training Pipelines
-- Cross-Platform Environments (Linux, Termux, Proot)
+«Understand the problem. Design the system. Build it. Break it. Fix it. Ship something useful.»
 
 ---
 
-## Active Projects
+Selected Work
 
-### 🔹 BLUX Ecosystem
-Structured AI system focused on deterministic reasoning, datasets, and modular intelligence architecture.
+The Resolver Bot
 
-### 🔹 LRC (Local Repo Compiler)
-Declarative system that compiles `.lrc` schemas into full repositories.
+Production-oriented Telegram moderation platform built in Python with deterministic moderation, administrative tooling, subscription architecture, diagnostics, authorization boundaries, and an optional intelligence layer.
 
-### 🔹 GOD (Global Operations Deity)
-Global help indexer and CLI-based system for structured command discovery.
+Python · Telegram · SQLite · OpenAI · Linux
 
-### 🔹 Axiom
-Custom developer terminal environment designed for efficiency and control.
+AXIOM Launcher / VOID.OS
 
-### 🔹 TheResolverBot
-Telegram moderation and automation platform with structured decision systems.
+Custom Android launcher and controlled Android environment built in Kotlin.
 
----
+AXIOM includes configurable home surfaces, widgets, app management, media integration, customization systems, native icon infrastructure, protected internal modules, and licensing/security foundations.
 
-## Philosophy
+Kotlin · Android · Jetpack Compose
 
-> Build systems that reduce chaos, increase clarity, and scale with intention.
+Roughin
 
----
+Mobile-first SaaS designed around actual contractor workflows: clients, jobs, line items, estimates, invoices, photos, payments, and subscriptions.
 
-## Current Direction
+FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Tailwind · Stripe · Cloudflare R2 · Docker
 
-- Finalizing BLUX datasets and training pipeline
-- Expanding developer tooling across the ecosystem
-- Moving toward production-ready AI systems
+Termux Background
 
----
+Android companion application and CLI that adds custom background support to Termux with live reload, opacity control, blur, scrolling animation, dependency detection, and settings preservation.
 
-## 🚀 DevBoard
+Java · Android · Termux · CLI · GitHub Actions
 
-A structured space for developers to showcase projects and get real feedback.
+42 GitHub stars · 3 forks
 
-Most platforms bury posts or lack context—DevBoard standardizes how projects are presented so they’re easier to understand and evaluate.
+Vigyl
 
-📌 Share your work  
-📌 Get useful feedback  
-📌 Connect with builders  
+Private caregiving and accountability platform designed around family care groups, assigned responsibilities, completion tracking, and continuity.
 
-- [Reddit](https://reddit.com/r/DevBoard)
-- [Facebook](https://www.facebook.com/share/g/1CJ1m8TtfV/)
+FastAPI · SQLAlchemy · Pydantic · SQLite
 
 ---
 
-## Contact / Links
+What I Work With
 
-- [Outer-Void](https://github.com/Outer-Void)
-- [Email JADIS](outervoid.jadis@gmail.com)
+Languages
+
+Python · Kotlin · Java · JavaScript · SQL · Shell
+
+Backend
+
+FastAPI · SQLAlchemy · SQLite · PostgreSQL · REST APIs · JWT
+
+Android
+
+Kotlin · Jetpack Compose · Android SDK · AppWidgetHost
+
+Infrastructure & Tooling
+
+Linux · Git · GitHub · Docker · CI/CD · VPS deployment
+
+Integrations
+
+OpenAI API · Stripe · Cloudflare R2 · Telegram APIs
+
+Workflow
+
+AI-assisted development · rapid prototyping · architecture · debugging · testing · technical documentation
+
+---
+
+AI-Assisted Development
+
+I use AI aggressively as a development tool.
+
+I don't treat generated code as magic.
+
+Architecture still has to make sense.
+
+Integrations still have to work.
+
+Bugs still have to be diagnosed.
+
+Security boundaries still matter.
+
+Products still have to survive outside a prompt window.
+
+AI lets me move faster from:
+
+Idea → Architecture → Implementation → Testing → Iteration
+
+The responsibility for whether the resulting system actually works is still mine.
+
+---
+
+Outer-Void
+
+Most of my current product development lives under Outer-Void, where I'm building software products, developer tooling, experimental systems, and AI-related architecture.
+
+Outer-Void includes production-oriented applications, Android systems, SaaS products, developer tools, automation, and experimental AI research.
+
+---
+
+Current Direction
+
+I'm actively looking for:
+
+Remote Development · Contract Work · AI-Assisted Development · Rapid Prototyping · MVP Development · Automation · Backend/API Work · Android Development
+
+I'm particularly interested in teams that care more about whether someone can understand a problem and build the solution than whether they arrived through a traditional computer science career path.
+
+---
+
+Contact
+
+Christopher Osburn
+
+Email: theoutervoid@outlook.com
+
+GitHub: @Justadudeinspace
+
+Organization: @Outer-Void
