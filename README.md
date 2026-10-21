@@ -12,6 +12,13 @@ That background still shapes how I work:
 
 «Understand the problem. Design the system. Build it. Break it. Fix it. Ship something useful.»
 
+> Why are we calling it “Vibe Coding”?
+> 
+> I’m not vibing.
+> 
+> I’m architecting systems, solving problems, and turning ideas into working software.
+> 
+> I’m a Systems Architect — coding from the Void.
 ---
 
 Selected Work
