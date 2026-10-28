@@ -1,18 +1,20 @@
-# Christopher Osburn - (JADIS)
+# Christopher Osburn — JADIS
 
-Software Developer · Systems Architect · AI-Assisted Builder · Rapid Prototyper
+Systems Architect · Software Developer · AI-Assisted Builder
 
-I build software by starting with the problem and figuring out what has to exist to solve it.
+I build systems by starting with the problem and figuring out what actually has to exist to solve it.
 
-I'm a self-taught developer and systems builder working across Python, Android/Kotlin, backend systems, developer tooling, automation, APIs, AI systems, and rapid product development.
+I'm a self-taught developer and systems architect working across software architecture, Python, Android/Kotlin, backend systems, developer tooling, automation, AI systems, APIs, and product development.
 
 My background isn't traditional computer science.
 
-I spent years building things in the physical world—construction, fabrication, renovation, manufacturing, and hands-on problem solving—before teaching myself how to build systems digitally.
+Before software, I spent years building things in the physical world through construction, fabrication, renovation, manufacturing, and hands-on problem solving.
 
-That background still shapes how I approach software:
+The material changed.
 
-«Understand the problem. Design the system. Build it. Break it. Fix it. Make it useful.»
+The builder mentality didn't.
+
+> Understand the problem. Design the system. Build it. Break it. Prove it. Fix it. Make it useful.
 
 ---
 
@@ -22,145 +24,99 @@ That background still shapes how I approach software:
 > 
 > I'm not vibing.
 > 
-> I'm architecting systems, solving problems, connecting moving pieces, breaking things, debugging them, and turning ideas into working software.
+> I'm architecting systems, solving problems, connecting moving pieces, breaking things, debugging them, testing assumptions, and turning ideas into working software.
 > 
 > I'm a Systems Architect — coding from the Void.
 
-AI changed how quickly I can build.
+I use AI aggressively because it dramatically increases how quickly I can research, architect, implement, test, audit, document, and iterate.
 
-It didn't eliminate the engineering.
+That doesn't eliminate engineering responsibility.
 
----
+Generated code still has to integrate.
 
-## Outer-Void
+Architecture still has to make sense.
 
-My active software development has been consolidated under Outer-Void.
+Security boundaries still matter.
 
-Outer-Void is where I'm building independent software products, Android systems, developer infrastructure, automation, AI architecture, experimental systems, and the tooling that connects them.
+Tests still have to prove something.
 
-The projects are increasingly interconnected where that makes sense, but I don't believe everything should become one giant application.
+Hardware still has to work on hardware.
 
-Some systems should integrate.
+And software still has to survive outside the environment where it was generated.
 
-Some should remain standalone.
-
-Some should remain private.
-
-The architecture should reflect the purpose of the product—not force the product to fit the architecture.
+> AI accelerates the work. Responsibility for the resulting system is still mine.
 
 ---
 
-## Selected Work
+## Outer Void
 
-### AXIOM Launcher
+Outer Void is the ecosystem where most of my active software and systems work now lives.
 
-A custom Android launcher built in Kotlin and designed as a complete standalone Android product.
+It isn't a monorepo and it isn't one giant application.
 
-AXIOM includes configurable home surfaces, widgets, application management, media integration, system controls, customization infrastructure, and its own native supporting projects.
+It's a federated collection of independent products, developer infrastructure, deterministic engines, Android systems, AI architecture, datasets, automation, and experimental systems designed to interoperate where doing so actually adds value.
 
-The broader AXIOM product includes:
+The architectural rule is simple:
 
-VOID.SYS — native icon infrastructure and standalone project.
+«Standalone where it makes sense. Integrated where it adds genuine value. No duplicated authority.»
 
-AXIOM Shooter — standalone native project integrated into AXIOM Launcher as a hidden home-screen Easter egg.
+Some projects are public.
 
-Kotlin · Android · Jetpack Compose
+Some are proprietary.
 
----
+Some are internal infrastructure.
 
-### Roughin
+Some are products.
 
-Mobile-first SaaS built around the way solo contractors and tradespeople actually work.
-
-Clients. Jobs. Line items. Estimates. Invoices. Photos. Payments. Subscriptions.
-
-The goal is to build software around the field instead of forcing the field to operate like an office.
-
-FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Tailwind · Stripe · Cloudflare R2 · Docker
+They don't need to become the same thing just because they can communicate.
 
 ---
 
-### VoidForge
-
-Android-to-Android developer and device-service infrastructure.
-
-VoidForge is being designed to turn an Android device into a capable mobile development, diagnostic, recovery, and service workstation with workflows involving ADB, Fastboot/Fastbootd, recovery, sideload, Logcat, packages, files, terminal operations, backup, flashing, and advanced Android tooling.
-
-It is designed to work independently while also integrating with the broader BLUX and Outer-Void architecture.
-
-Free · Outer-Void Organization Members Only
-
-Android · Kotlin · ADB · Fastboot · Termux · Linux
-
----
-
-### Termux-Background
-
-Android companion application and CLI that adds custom background support to Termux with live reload, opacity control, blur, scrolling animation, dependency detection, and settings preservation.
-
-One of my public examples of taking a narrowly defined problem and turning it into an actual usable tool.
-
-Java · Android · Termux · CLI · GitHub Actions
-
----
-
-### Vigyl
-
-Private caregiving and accountability infrastructure focused on continuity rather than simple reminders.
-
-Designed around private care groups, assigned responsibilities, completion tracking, communication, accountability, and structured follow-through.
-
-FastAPI · SQLAlchemy · Pydantic · SQLite
-
----
-
-### TheResolverBot
-
-A private Telegram moderation and administration platform built around deterministic moderation, authorization boundaries, administrative tooling, diagnostics, subscription infrastructure, testing, deployment tooling, and an optional intelligence layer.
-
-The project now lives privately within Outer-Void.
-
-Python · Telegram · SQLite · AI Integration · Linux
-
----
+## Selected Systems & Products
 
 ### BLUX
 
-BLUX is the intelligence and integration architecture I'm developing within Outer-Void.
+BLUX is the intelligence and integration architecture at the center of Outer Void's AI work.
 
-It grew beyond a single AI experiment into a larger attempt to answer a question I'm increasingly interested in:
+The problem I'm trying to solve isn't simply:
 
-> How do you make AI part of a real software system without making the entire system dependent on AI?
+> "How do I put an LLM in an application?"
 
-The work explores:
+It's:
 
-Structured reasoning · deterministic construction · model abstraction · agent execution · capability discovery · developer automation · execution provenance · datasets · evaluation · AI-assisted engineering
+> How do you build intelligence into real software systems without making the entire system dependent on AI?
 
-The architecture is intentionally modular.
+BLUX is being built around modular intelligence, explicit capability contracts, deterministic authorities, provider-independent model access, agents, tool execution, structured reasoning, construction and repair, provenance, evaluation, and eventually native BLUX models.
 
-BLUX provides intelligence.
+The surrounding architecture includes:
 
-Independent engines provide specialized capabilities.
+- CogA — deterministic structured reasoning
+- cA — deterministic construction and repair
+- DAT — independent audit, security, quality, and release verification
+- LRC — deterministic repository construction and migration
+- GOD — capability and project discovery
+- BLUX System — receipts, execution evidence, provenance, and replay
+- BluxGPT — provider-independent model transport
+- BLUX App — local observability and mission control
+- blux10k — reproducible development environment and toolchain
 
-Applications remain applications.
+The rule is intentional:
 
-Where BLUX genuinely makes a product better, I want to integrate it.
-
-Where it doesn't belong, I don't.
+AI provides intelligence. Deterministic systems retain authority where determinism matters.
 
 ---
 
 ## "blux" + "ax"
 
-Two command-line interfaces represent an important distinction in the architecture I'm building.
+Two command-line interfaces expose two different layers of the ecosystem.
 
-"blux"
+### "blux"
 
 Direct access to BLUX intelligence.
 
-"ax"
+### "ax"
 
-The AXIOM control plane for orchestrating compatible Outer-Void tools, engines, projects, environments, and device capabilities.
+The AXIOM developer control plane for routing compatible Outer Void tools, engines, environments, projects, and device capabilities.
 
 In simple terms:
 
@@ -168,37 +124,151 @@ In simple terms:
 > 
 > "ax" is orchestration.
 
+"ax" is deliberately thin. It routes to authoritative systems instead of becoming those systems.
+
 ---
 
-## Developer Tooling & Experimental Systems
+## AXIOM Launcher
 
-A significant part of my work isn't a traditional end-user application.
+A custom Android launcher built as a standalone commercial Android product.
 
-I build tools that help me build other things.
+AXIOM includes configurable home surfaces, widgets, application management, media integration, system controls, customization infrastructure, and native supporting projects.
 
-That work includes projects involving:
+The broader AXIOM family includes:
 
-DAT — auditing, quality, security, and release analysis
+VOID.SYS — native icon infrastructure and standalone icon system.
 
-LRC — repository construction and scaffolding
+AXIOM Shooter — standalone native Android game integrated into AXIOM Launcher as a hidden home-screen Easter egg.
 
-GOD — capability and tooling discovery
+BLUX integration is optional by design. The launcher must remain a complete product without AI.
 
-CogA — structured reasoning
+Kotlin · Android · Jetpack Compose · Android SDK
 
-cA — structured construction and repair
+---
 
-BLUX System — execution evidence and provenance
+## VoidForge
 
-blux10k — development environment/toolchain infrastructure
+Android-to-Android device engineering infrastructure.
 
-jadis.toolbox — developer utilities and experimental tooling
+VoidForge is designed to turn an Android device into a capable mobile development, diagnostic, recovery, and service workstation.
 
-Termux tooling — mobile-first development infrastructure
+The architecture covers:
 
-Some of these are useful independently.
+ADB · Fastboot · Fastbootd · Recovery · Sideload · Logcat · APK/package operations · Files · Terminal workflows · Backup/restore · Flashing · Boot image workflows · Magisk integration
 
-Others are gradually becoming pieces of a larger interoperable development environment.
+VoidForge remains its own authority over device operations. BLUX can assist, but intelligence does not get to bypass local authorization for destructive actions.
+
+Android · Kotlin · ADB · Fastboot · Termux · Linux
+
+---
+
+## Roughin
+
+Mobile-first contractor software designed around how solo contractors and tradespeople actually work.
+
+Clients. Jobs. Line items. Estimates. Invoices. Photos. Payments. Subscriptions.
+
+The goal is straightforward:
+
+> Build software around the field instead of forcing the field to operate like an office.
+
+FastAPI · PostgreSQL · SQLAlchemy · React · Vite · Stripe · Cloudflare R2 · Docker
+
+---
+
+## Vigyl
+
+Private caregiving and accountability infrastructure built around continuity, not simple reminders.
+
+Vigyl supports private care circles, responsibilities, task assignment, completion, independent verification, status tracking, timelines, and structured follow-through.
+
+The backend and development UI are now both implemented, with the remaining work centered increasingly on deployment, real notification delivery, PostgreSQL qualification, and real-world product validation.
+
+Python · FastAPI · SQLAlchemy · Pydantic · React
+
+---
+
+## TheResolverBot 
+
+Private Telegram moderation and administration infrastructure.
+
+TheResolverBot combines deterministic moderation, authorization boundaries, administrative tooling, diagnostics, subscriptions, deployment infrastructure, and an optional intelligence layer.
+
+The system is intentionally designed so AI can improve moderation intelligence without becoming the authority over security and administrative boundaries.
+
+Python · Telegram · SQLite · Linux · AI Integration
+
+---
+
+## Termux Background
+
+Android companion application and CLI for custom Termux background support, including live reload, opacity control, blur, scrolling animation, dependency detection, and settings preservation.
+
+It's one of my public examples of taking a narrowly defined problem and turning it into a usable tool instead of leaving it as an idea or script.
+
+Java · Android · Termux · CLI · GitHub Actions
+
+---
+
+## Eden Recovery
+
+Not everything I architect is purely software.
+
+Eden Recovery ("/er") is my long-range recovery-system architecture built substantially from lived experience and years of examining addiction, recovery, denial, accountability, treatment culture, homelessness, reintegration, and the gap between getting someone sober and actually rebuilding a life.
+
+It brings together two major systems I've been developing:
+
+### IVRP — Inner Void Recovery Program
+
+A structured recovery curriculum centered on self-awareness, honesty, pattern recognition, accountability, emotional regulation, behavioral change, identity reconstruction, and long-term integration.
+
+### Operation: Restore
+
+A broader restoration model focused on removing the real-world barriers that keep people trapped even after the immediate crisis has passed:
+
+identity · transportation · income · employment · housing · family stability · skills · community · purpose
+
+Eden Recovery is the end-game architecture that brings those pieces together with clinical care, life stabilization, reintegration, housing, work, community, and long-term continuity.
+
+The goal isn't simply getting someone through a program.
+
+> It's rebuilding enough of the person and their environment that recovery has somewhere to live.
+
+"/er" is the internal architecture and planning repository.
+
+"/ivrp" and "/operationrestore" remain their respective public-facing project surfaces.
+
+---
+
+## Developer Infrastructure
+
+A significant amount of my work isn't traditional end-user software.
+
+I build systems that help me build, inspect, test, validate, and operate other systems.
+
+That includes:
+
+- DAT — audit, security, quality, and release verification
+
+- LRC — repository construction, scaffolding, and migration
+
+- GOD — capability and tooling discovery
+
+- CogA — structured deterministic reasoning
+
+- cA — structured construction and repair
+
+- BLUX System — execution provenance and receipts
+
+- blux10k — reproducible development environment/toolchain
+
+- jadis.toolbox — workstation diagnostics and developer utilities
+
+- AXIOM CLI ("ax") — ecosystem control plane
+
+Some are useful independently.
+
+Together they form a larger interoperable engineering environment without requiring everything to collapse into one framework.
 
 ---
 
@@ -206,61 +276,31 @@ Others are gradually becoming pieces of a larger interoperable development envir
 
 ### Languages
 
-Python · Kotlin · Java · JavaScript · SQL · Shell
+Python · Kotlin · Java · JavaScript/TypeScript · SQL · Shell/Bash · HTML/CSS
 
 ### Backend
 
-FastAPI · SQLAlchemy · SQLite · PostgreSQL · REST APIs · JWT
+FastAPI · SQLAlchemy · SQLite · PostgreSQL · REST APIs · Authentication/Authorization · Pydantic
 
 ### Android
 
-Kotlin · Java · Jetpack Compose · Android SDK · AppWidgetHost · ADB · Fastboot
+Kotlin · Java · Jetpack Compose · Android SDK · ADB · Fastboot · Android System Integration
 
-### Infrastructure & Tooling
+### Frontend
 
-Linux · Termux · Git · GitHub · Docker · CI/CD · VPS Deployment · GitHub Actions
+React · Vite · HTML · CSS · Progressive Web Applications
+
+### Infrastructure
+
+Linux · Termux · Git · GitHub · Docker · CI/CD · GitHub Actions · VPS/Cloud Deployment
 
 ### Integrations
 
-AI APIs · Stripe · Cloudflare R2 · Telegram APIs
+AI/LLM APIs · Stripe · Cloudflare R2 · Telegram APIs · External Service APIs
 
 ### Engineering
 
-System Architecture · AI-Assisted Development · Rapid Prototyping · Debugging · Testing · Automation · Technical Documentation · Repository Engineering
-
----
-
-## AI-Assisted Development
-
-I use AI aggressively as an engineering tool.
-
-I'm not interested in pretending I manually typed every line of code if a better tool can accelerate the work.
-
-I'm also not interested in pretending generated code is automatically good code.
-
-AI can accelerate:
-
-Research → Architecture → Implementation → Debugging → Testing → Documentation → Iteration
-
-But generated code still has to integrate.
-
-Dependencies still break.
-
-State still has to be managed.
-
-APIs still need contracts.
-
-Security boundaries still matter.
-
-Tests still need to test something meaningful.
-
-Android still has to run on an actual Android device.
-
-Software still has to survive outside the environment where it was generated.
-
-AI can dramatically increase the speed at which I move.
-
-> The responsibility for whether the resulting system actually works is still mine.
+System Architecture · AI-Assisted Engineering · Rapid Prototyping · Backend/API Development · Android Development · Debugging · Testing · Automation · Repository Engineering · Technical Documentation · Integration Engineering
 
 ---
 
@@ -276,46 +316,78 @@ I begin with:
 
 Then:
 
-1. Understand the problem.
-2. Determine the system boundaries.
+1. Understand the actual problem.
+2. Determine system boundaries and authority.
 3. Identify the moving pieces.
-4. Build the smallest architecture capable of supporting the real objective.
-5. Test it.
-6. Break assumptions.
-7. Find the weak points.
-8. Fix them.
-9. Integrate the pieces.
-10. Keep improving it until it actually works.
+4. Design the smallest architecture capable of supporting the real objective.
+5. Build it.
+6. Test it.
+7. Break assumptions.
+8. Find the weak points.
+9. Fix them.
+10. Integrate the pieces.
+11. Prove the important paths.
+12. Keep improving it until it is genuinely useful.
 
-That's essentially the same process I used before software.
+One principle has become particularly important across Outer Void:
 
-The material changed.
+> Build the system. Prove the system. Then remove the scaffolding.
 
-The builder mentality didn't.
+I don't consider a green test suite proof that a product works if the actual requirement hasn't been exercised.
+
+---
+
+## AI-Assisted Engineering
+
+I don't hide the fact that AI is deeply integrated into my development workflow.
+
+I use it for:
+
+Research → Architecture → Implementation → Analysis → Debugging → Testing → Auditing → Documentation → Iteration
+
+What interests me isn't how much code a person can manually type.
+
+I'm interested in how much working system a person can understand, architect, build, validate, and maintain.
+
+AI dramatically changes the amount of implementation one person can attempt.
+
+It does not change who is responsible for deciding whether the result is actually correct.
+
+That's the part I care about.
 
 ---
 
 ## Current Direction
 
-I'm actively interested in:
+I'm currently focused on:
 
-Remote Development · Contract Development · AI-Assisted Engineering · Rapid Prototyping · MVP Development · Automation · Backend/API Development · Android Development · Developer Tooling · System Architecture
+Systems Architecture · AI-Assisted Engineering · Android Development · Backend/API Development · Developer Infrastructure · Automation · AI Systems · Rapid Product Development
 
-I'm particularly interested in working with people who care more about whether someone can understand a difficult problem and build a working solution than whether they arrived through a traditional computer science career path.
+I'm also continuing the long-term development of the Outer Void ecosystem, BLUX native intelligence, and Eden Recovery architecture.
 
-I'm comfortable entering unfamiliar territory, figuring out how the pieces work, and building from there.
+For professional work, I'm interested in:
+
+Remote Development · Contract Engineering · Systems Architecture · AI-Assisted Development · Rapid Prototyping · MVP Development · Automation · Backend/API Work · Android Development · Developer Tooling
+
+I'm particularly interested in difficult problems where the requirement isn't simply:
+
+> "Write this code."
+
+It's:
+
+> "Figure out what needs to exist, then make it work."
 
 ---
 
 ## Contact
 
-Christopher Osburn - (JADIS)
+**Christopher Osburn — JADIS**
 
 Email: theoutervoid@outlook.com
 
-Personal GitHub: "@Justadudeinspace"
+Personal GitHub: @Justadudeinspace
 
-Organization: "@Outer-Void"
+Organization: @Outer-Void
 
 ---
 
@@ -323,6 +395,6 @@ Organization: "@Outer-Void"
 > 
 > Some start as software.
 > 
-> Some start as an idea that probably shouldn't work.
+> Some start as problems nobody has solved the way I think they should be solved.
 > 
-> Either way, I want to find out.
+> Either way, I want to find out what happens when I build the thing that I think should exist.
